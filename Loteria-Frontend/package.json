@@ -39,6 +39,7 @@
         "jquery.easing": "^1.4.1",
         "source-map-resolve": "^0.6.0",
         "source-map-url": "github:lydell/source-map-url",
+        "startbootstrap-sb-admin-2": "^4.1.4",
         "urix": "^0.1.0"
     },
     "devDependencies": {
@@ -53,6 +54,7 @@
         "gulp-sass": "5.1.0",
         "gulp-uglify": "3.0.2",
         "gulp-watch": "^5.0.1",
-        "merge-stream": "2.0.0"
+        "merge-stream": "2.0.0",
+        "npm": "^9.7.1"
     }
 }
