@@ -41,7 +41,10 @@
     "source-map-resolve": "^0.6.0",
     "source-map-url": "github:lydell/source-map-url",
     "startbootstrap-sb-admin-2": "^4.1.4",
-    "urix": "^0.1.0"
+    "urix": "^0.1.0",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-imagemin": "^8.0.0",
+    "imagemin-webp": "^7.0.0"
   },
   "devDependencies": {
     "browser-sync": "2.29.3",
@@ -60,5 +63,6 @@
     "nodemon": "^2.0.22",
     "npm": "^9.7.1"
   },
-  "main": "gulpfile.js"
+  "main": "gulpfile.js",
+  "type": "module"
 }
